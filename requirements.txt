@@ -1,5 +1,5 @@
-numpy~=2.4.4
-uvicorn~=0.46.0
-fastapi~=0.136.1
-pydantic~=2.13.3
-scikit-learn~=1.8.0
+fastapi
+uvicorn
+scikit-learn
+numpy
+pytest
